@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: orange;
+}
+
+#bottomButtons{
+    text-align: left;
+}
+
+#user{
+    text-align: left;
+}
+
+#upload{
+    text-align: right;
+}
+
+a{
+    color: black;
+}
