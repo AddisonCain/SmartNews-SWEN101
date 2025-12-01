@@ -1,6 +1,5 @@
 body{
     text-align: center;
-    background-color: orange;
 }
 
 #bottomButtons{
@@ -17,4 +16,8 @@ body{
 
 a{
     color: black;
+}
+
+h1{
+    color: orange;
 }
